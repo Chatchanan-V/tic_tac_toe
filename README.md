@@ -1,5 +1,5 @@
 # tic_tac_toe
-Implementation of tic-tac-toe game in both non-oop and opp manners
+Implementation of tic-tac-toe game in both non-oop and opp manners from "Beyond the Basic Stuff with Python" book
 
 This repository contains source code for running a simple tic-tac-toe game
 
