@@ -17,3 +17,6 @@ What is X's move? (1-9)
 
 # How to run?
 Simply run tictactoe.py file 
+```bash 
+python tictactoe.py
+```
